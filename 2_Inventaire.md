@@ -1,7 +1,5 @@
 # Inventaire & Equipement
 
-![Inventaire](./_images/inventaire.png)
-
 ## Equipé
 |||
 |-|-|
