@@ -5,9 +5,9 @@
 ## Equipé
 |||
 |-|-|
-|**Corps**||
-|**Main droite**||
-|**Main gauche**||
+|**Corps**|Chainmail|
+|**Main droite**|Marteau de guerre|
+|**Main gauche**|-|
 |**Amulette**||
 |**Doigt 1**||
 |**Doigt 2**||
