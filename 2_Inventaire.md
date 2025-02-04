@@ -5,7 +5,7 @@
 |-|-|
 |**Corps**|Chainmail|
 |**Main droite**|Marteau de guerre|
-|**Main gauche**|-|
+|**Main gauche**|Bouclier|
 |**Amulette**||
 |**Doigt 1**||
 |**Doigt 2**||
@@ -15,18 +15,14 @@
 ## Inventaire
 
 ### Equipement
-* Bouclier
-* Chainmail
 
 ### Armes
-* Marteau de guerre à deux mains
 * 5 javelines
 
 ### Objets
 *Utilitaires*
 * Pack d'explorateur
 * Symbole sacré
-* Marteau
 
 *Consommables*
 

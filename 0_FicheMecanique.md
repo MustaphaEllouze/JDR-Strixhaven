@@ -1,5 +1,5 @@
 # Ferdinand Lecordonier
-![Ferdinand Le Cordonier](./_images/Quintorius.jpg)
+![Ferdinand Le Cordonier](./_images/Ferdinand.png)
 
 ## Informations générales
 
@@ -13,10 +13,10 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 13 | **HP Max** | 13 |
+| **HP actuels** | 12 | **HP Max** | 12 |
 | **HP temporaires** |  | | |
 | **Dés de vie actuels** | 1d10 | **Dés de vie max** | 1d10 |
-| **Charges Sens Divin** | 3 | **Charges Sens Divin Max** | 3 (1+CHA) |
+| **Charges Sens Divin** | 4 | **Charges Sens Divin Max** | 4 (1+CHA) |
 | **Imposition des Mains** | 5 | **Imposition des Mains Max** | 5 (PAL x 5) |
 
 | Niveau Emplacement | Actuels | Maximum | 
@@ -28,42 +28,42 @@
 
 | |Caractéristique|Modificateur| Jets de Sauvegarde |
 |-|-|-|-|
-|Force|14|+2|+2|
-|Dextérité|11|+0|+0|
-|Constitution|16|+3|+3|
-|Intelligence|10|+0|+0|
-|Sagesse|10|+0|+2 (prof)|
-|Charisme|14|+2|+4 (prof)| 
+|Force|16|+3|+3|
+|Dextérité|8|-1|-1|
+|Constitution|14|+2|+2|
+|Intelligence|12|+1|+1|
+|Sagesse|-8|-1|+1 (prof)|
+|Charisme|16|+3|+5 (prof)| 
 
 |Nom|Type|Proficiency|Bonus|
 |-|-|-|-|
-|Acrobaties|DEX||+0|
-|Arcanes|INT||+0|
-|Athlétisme|FOR|x Paladin|+4|
-|Discrétion|DEX||+0|
-|Dressage|SAG||+0|
-|Escamotage|DEX||+0|
-|Histoire|INT|x Lorehold|+2|
-|Intimidation|CHA||+2|
-|Intuition/Perspicacité|SAG||+0|
-|Investigation|INT||+0|
-|Médecine|SAG||+0|
-|Nature|INT||+0|
-|Perception|SAG||+0|
-|Persuasion|CHA|x Paladin|+4|
-|Religion|INT|x Lorehold|+2|
-|Représentation|CHA||+2|
-|Survie|SAG||+0|
-|Tromperie|CHA||+2|
-
-*Avantagé* - Sur tous les jets nécessitants l'odorat
+|Acrobaties|DEX||-1|
+|Arcanes|INT||+3|
+|Athlétisme|FOR|x Paladin|+5|
+|Discrétion|DEX||-1 (Désavantage)|
+|Dressage|SAG||-1|
+|Escamotage|DEX||-1|
+|Histoire|INT|x Lorehold|+3|
+|Intimidation|CHA||+3|
+|Intuition/Perspicacité|SAG||-1|
+|Investigation|INT||+1|
+|Médecine|SAG||-1|
+|Nature|INT||+1|
+|Perception|SAG||-1|
+|Persuasion|CHA|x Paladin|+5|
+|Religion|INT|x Lorehold|+3|
+|Représentation|CHA||+3|
+|Survie|SAG||-1|
+|Tromperie|CHA||+3|
 
 ## Caractéristiques de combat
 | | |
 |-|-|
-|**Bonus d'initiative**|+0|
-|**Classe d'armure**|16 (chainmail) / 18 (+bouclier)|
+|**Bonus d'initiative**|-1|
+|**Classe d'armure**|18 (+bouclier) / 16 (chainmail)|
 |**Vitesse**|9 m|
+
+**Heavy Armor Master** - Tant que vous portez une armure, réduisez tous les dégâts physiques de 3 (tranchants, contondants, perforants).
 
 ### Attaques
 |Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
@@ -73,9 +73,9 @@
 
 ### Sorts
 
-*DD de sauvegarde contre les sorts* - 12
+*DD de sauvegarde contre les sorts* - 13
 
-*Modificateur d'attaque pour les sorts* - +4
+*Modificateur d'attaque pour les sorts* - +5
 
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
@@ -86,17 +86,14 @@
 #### Leveled Spells
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
-|[Comprehend Language](./SORTS/LEVEL1/ComprehendLanguage.md)|Compréhension des Langues| 1||Lorehold|
-|[Identify](./SORTS/LEVEL1/Identify.md)|Identification|1||Lorehold|
+|[Comprehend Language](./SORTS/LEVEL1/ComprehendLanguage.md)|Compréhension des Langues| 1|(A partir du level 2)|Lorehold|
+|[Identify](./SORTS/LEVEL1/Identify.md)|Identification|1|(A partir du level 2)|Lorehold|
 |[Guiding Bolt](./SORTS/LEVEL1/GuidingBolt.md)|Rayon traçant|1||Lorehold|
 
 ### Autres
 
 
 ## Traits utilitaires
-
-### Traits raciaux
-* *Sérénité de Loxodon* - Vous avez **avantage** contre les états **Charmé** et **Effrayé** ;
 
 ### Traits de classe
 
