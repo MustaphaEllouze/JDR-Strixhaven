@@ -32,6 +32,9 @@
 * Une boîte de puzzle avec une liseré en ambre
 
 *Marrants*
+* Une mascotte de Lorehold / Forsapience ;
+* Un fanion de Lorehold avec écrit "Ferdinand" ;
+* Une lampe à huile avec écrit "5" ;
 
 ### Autres
 
@@ -42,6 +45,6 @@ Tout est entropie, tout est voué à disparaître
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|15|
+|**Or**|69|
 |**Argent**||
 |**Cuivre**|0|

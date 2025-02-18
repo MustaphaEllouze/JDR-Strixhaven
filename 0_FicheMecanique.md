@@ -21,7 +21,7 @@
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Level 1 | 0 | 0| 
+| Level 1 | 2 | 2| 
 
 
 ## Ability scores
@@ -38,21 +38,21 @@
 |Nom|Type|Proficiency|Bonus|
 |-|-|-|-|
 |Acrobaties|DEX||-1|
-|Arcanes|INT||+3|
+|Arcanes|INT|x Lorehold|+3|
 |Athlétisme|FOR|x Paladin|+5|
 |Discrétion|DEX||-1 (Désavantage)|
 |Dressage|SAG||-1|
 |Escamotage|DEX||-1|
 |Histoire|INT|x Lorehold|+3|
-|Intimidation|CHA||+3|
+|Intimidation|CHA|x Noble|+5|
 |Intuition/Perspicacité|SAG||-1|
-|Investigation|INT||+1|
+|Investigation|INT|x Noble|+3|
 |Médecine|SAG||-1|
 |Nature|INT||+1|
 |Perception|SAG||-1|
 |Persuasion|CHA|x Paladin|+5|
 |Religion|INT|x Lorehold|+3|
-|Représentation|CHA||+3|
+|Représentation|CHA|x Noble|+5|
 |Survie|SAG||-1|
 |Tromperie|CHA||+3|
 
@@ -63,13 +63,19 @@
 |**Classe d'armure**|18 (+bouclier) / 16 (chainmail)|
 |**Vitesse**|9 m|
 
-**Heavy Armor Master** - Tant que vous portez une armure, réduisez tous les dégâts physiques de 3 (tranchants, contondants, perforants).
+**Heavy Armor Master** - Tant que vous portez une armure, réduisez tous les dégâts physiques de 2 (= prof) (tranchants, contondants, perforants).
 
 ### Attaques
-|Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
-|-|-|-|-|-|-|
-|Marteau de Guerre|+5|1d10+3|1.5m|FOR+prof|1d10+FOR|
-|Marteau de Guerre + Bouclier|+5|1d8+3|1.5m|FOR+prof|1d8+FOR|
+|Arme|Toucher|Dégâts|Maîtrise|Portée|Formule Toucher|Formule Dégâts|
+|-|-|-|-|-|-|-|
+|Marteau de Guerre|+5|1d10+3|Push|1.5m|FOR+prof|1d10+FOR|
+|Marteau de Guerre + Bouclier|+5|1d8+3|Push|1.5m|FOR+prof|1d8+FOR|
+|Hache de Guerre|+5|1d10+3|Topple|1.5m|FOR+prof|1d10+FOR|
+|Hache de Guerre + Bouclier|+5|1d8+3|Topple|1.5m|FOR+prof|1d8+FOR|
+
+**Push** - If you hit a creature with Warhammer, you can push the creature up to 10 ft. straight away from you if it’s Large or smaller.
+
+**Topple** - If you hit a creature with a Battleaxe, you can force it to make a Con. saving throw 13 (DC 8 + prof + the ability modifier used to make the attack). On a failed save, the creature has the Prone condition.
 
 ### Sorts
 
@@ -86,9 +92,11 @@
 #### Leveled Spells
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
-|[Comprehend Language](./SORTS/LEVEL1/ComprehendLanguage.md)|Compréhension des Langues| 1|(A partir du level 2)|Lorehold|
-|[Identify](./SORTS/LEVEL1/Identify.md)|Identification|1|(A partir du level 2)|Lorehold|
+|[Comprehend Language](./SORTS/LEVEL1/ComprehendLanguage.md)|Compréhension des Langues| 1||Lorehold|
+|[Identify](./SORTS/LEVEL1/Identify.md)|Identification|1||Lorehold|
 |[Guiding Bolt](./SORTS/LEVEL1/GuidingBolt.md)|Rayon traçant|1||Lorehold|
+|[Divine Smite](./SORTS/LEVEL1/DivineSmite.md)|Châtiment Divin|1||Paladin|
+|[Bless](./SORTS/LEVEL1/Bless.md)|Bénédiction|1||Paladin|
 
 ### Autres
 
