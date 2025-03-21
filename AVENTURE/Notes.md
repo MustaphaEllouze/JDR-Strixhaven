@@ -39,4 +39,15 @@
 * On trouve Greta à la sortie, on lui propose de venir dans notre dortoir ;
 * On va à la Taverne ;
 * En chemin, on trouve Nora qui est en train de se chamailler avec qqn, sa place dans le bâtiment D a été intervertie avec Roger ;
-* Fin de la journée !
+--- 
+* On trouve Nikki Larcin (Stan) dans une des chambre ;
+* Fin de la journée ! 
+* Plusieurs semaines se passent : 
+    * On arrive à monter le club avec Greta, on a réussi à réserver une partie du gymnase ;
+    * Grize Lee est particulièrement populaire ;
+    * On fait quelques activités et quelques cours ;
+* On va au Firejolt Café pour traîner, Nikki avec Aurora (en date ?)
+* La Barista : Elina Tanglewood ;
+* Greta et ses potes sont en train de faire des courses de grenouilles dans le Lounge du Café ;
+* 
+---

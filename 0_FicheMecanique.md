@@ -21,7 +21,7 @@
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Level 1 | 2 | 2| 
+| Level 1 | 1 | 2| 
 
 
 ## Ability scores
@@ -32,7 +32,7 @@
 |Dextérité|8|-1|-1|
 |Constitution|14|+2|+2|
 |Intelligence|12|+1|+1|
-|Sagesse|-8|-1|+1 (prof)|
+|Sagesse|8|-1|+1 (prof)|
 |Charisme|16|+3|+5 (prof)| 
 
 |Nom|Type|Proficiency|Bonus|
