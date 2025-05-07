@@ -39,7 +39,9 @@
 * On trouve Greta à la sortie, on lui propose de venir dans notre dortoir ;
 * On va à la Taverne ;
 * En chemin, on trouve Nora qui est en train de se chamailler avec qqn, sa place dans le bâtiment D a été intervertie avec Roger ;
---- 
+
+## Séance 3
+
 * On trouve Nikki Larcin (Stan) dans une des chambre ;
 * Fin de la journée ! 
 * Plusieurs semaines se passent : 
@@ -49,5 +51,19 @@
 * On va au Firejolt Café pour traîner, Nikki avec Aurora (en date ?)
 * La Barista : Elina Tanglewood ;
 * Greta et ses potes sont en train de faire des courses de grenouilles dans le Lounge du Café ;
-* 
----
+* On se fait attaquer par les grenouilles qui deviennent géantes !
+
+## Séance 4
+
+* On parle à la grenouille après les avoir tapées, et elles vomissent une substance noire et gluante ;
+* Ils ont trouvé les grenouilles devant la mare du Café ;
+* On sort du café, et on va devant la mare ;
+* On prend un bout de l'eau de la mare et de la vase
+* On trouve une fiole transparente d'eau sucrée ;
+* On trouve un petit rouleau de parchemin ;
+* On trouve deux professeurs de Silverquill dans le Café en y revenant ;
+* La professeure est en train de nous prendre nos noms et nos dortoirs ;
+* Profeusseur de Radiance et de Ténêbres ; 
+    * Omar Ombrepas
+    * Cécilia Feuillage ;
+

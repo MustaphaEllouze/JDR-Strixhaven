@@ -25,6 +25,7 @@
 * Symbole sacré
 
 *Consommables*
+* Parchemin de **Silvery Barbs**
 
 *Quêtes*
 

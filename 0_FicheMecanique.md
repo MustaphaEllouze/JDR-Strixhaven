@@ -16,12 +16,11 @@
 | **HP actuels** | 12 | **HP Max** | 12 |
 | **HP temporaires** |  | | |
 | **Dés de vie actuels** | 1d10 | **Dés de vie max** | 1d10 |
-| **Charges Sens Divin** | 4 | **Charges Sens Divin Max** | 4 (1+CHA) |
 | **Imposition des Mains** | 5 | **Imposition des Mains Max** | 5 (PAL x 5) |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Level 1 | 1 | 2| 
+| Level 1 | 2 | 2| 
 
 
 ## Ability scores
@@ -105,19 +104,10 @@
 
 ### Traits de classe
 
-#### Sens divin
-Une forte présence maléfique éveille vos sens, comme une odeur nocive, et un bien puissant fait résonner dans vos oreilles une musique céleste. 
-
-**Par une action**, vous pouvez éveiller votre conscience pour détecter de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez l'emplacement de toute créature céleste, fiélon ou mort-vivante dans un rayon de 18 mètres autour de vous, et qui ne se trouve pas derrière un abri total. 
-
-Vous connaissez le type (céleste, fiélon ou mort-vivant) et le nombre de tous les êtres dont vous sentez la présence, mais pas leur identité. Dans ce même rayon, vous détectez également la présence d'un lieu ou d'un objet qui a été consacré ou profané, comme avec le sort sanctification.
-
-Vous pouvez utiliser cette capacité un nombre de fois égal à **1 + votre modificateur de Charisme**. Lorsque vous terminez un repos long, vous récupérez toutes les utilisations dépensées.
-
 #### Imposition des mains
 Votre toucher béni peut guérir les blessures. Vous possédez une réserve de points de vie à soigner qui se récupère après **chaque repos long**. Avec cette réserve, vous pouvez restaurer un nombre total de points de vie égal à votre niveau de paladin multiplié par 5. 
 
-Au prix d'une **action**, vous pouvez toucher une créature et puiser dans votre réserve pour soigner autant de points de vie que vous le désirez.
+Au prix d'une **action bonus**, vous pouvez toucher une créature et puiser dans votre réserve pour soigner autant de points de vie que vous le désirez.
 
 Vous pouvez également dépenser 5 points de vie de votre réserve pour guérir la cible d'une **maladie** ou neutraliser un **poison** qui l'affecte. 
 
