@@ -67,3 +67,28 @@
     * Omar Ombrepas
     * Cécilia Feuillage ;
 
+## Séance 5
+
+* Plusieurs semaines passent ;
+* Membres de l'équipe de levée de poids ;
+    * Gareth Rochepoing, Fabien Graviteo, Bastien Fortbastion
+* Histoire de crush avec Fabien et Bastien : Ils sont "méga-potes" ;
+* On organise l'anniversaire suprise de Bastien dans le gymnase ;
+* Fabien ne s'est pas ramené ;
+* On le retrouve il a pris des anti-sèches de chez Greyson Beaumarais et sa bande ; 
+    * On le convaint de ne pas tricher et on brûle la feuille ;
+* Greyson est en train de regarder autour du gymnase, Greta lui aurait pris un truc ;
+* On lance un duel de sorcier, on commence à les taper ;
+* Ils s'enfuient tous
+* On va au bar ensuite ;
+* On se retrouve quelques jours après dans le cours de Physiologie Magique :
+    * On parle des Slaads ;
+    * Aberration connue pour leurs résistance à la magie ;
+    * Dangereux et imprévisibles ;
+    * Les rouges et bleus ne peuvent pas lancer de sorts et sont moins forts que les autres ;
+    *  Mode de reproduction parasitique : et le mode de reproduction dépend de l'hôte parasité ;
+    * Les verts, gris et de mort peuvent se changer en petit ou moyen humanoïde ;
+* La prof ne donnent un travail : 
+    * Trouver un fait sur les Slaad de la Mort qui est faux mais étonnament connu, on doit trouver ça au Biblioplex ;
+    * Deux types de classifications sur les Slaads : classification moderne des Slaads vs. la classification autre (?)
+    * Les Slaads de la mort puent tellement qu'ils pourraient même tuer (c'est ça la rumeur ?) ;

@@ -19,8 +19,9 @@
 | **Imposition des Mains** | 5 | **Imposition des Mains Max** | 5 (PAL x 5) |
 
 | Niveau Emplacement | Actuels | Maximum | 
-| - | - | -| 
+| - | - | -|  
 | Level 1 | 2 | 2| 
+| Utilisation Gratuite Guiding Bolt | 1 | 1| 
 
 
 ## Ability scores
