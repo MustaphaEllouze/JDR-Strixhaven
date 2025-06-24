@@ -5,23 +5,24 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ferdinand Lecordonier | **Niveau** | 1 |
-| **Age** | 16 | **Classe** | Paladin 1 |
+| **Nom** | Ferdinand Lecordonier | **Niveau** | 2 |
+| **Age** | 16 | **Classe** | Paladin 2 |
 | **Alignement** | Lawful Good  | **Expérience** | *Threshold* |
 |**Taille** | 1m99 | **Race** | Loxodon |
 | |  | **Bonus de maîtrise** | +2 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 12 | **HP Max** | 12 |
+| **HP actuels** | 20 | **HP Max** | 20 |
 | **HP temporaires** |  | | |
-| **Dés de vie actuels** | 1d10 | **Dés de vie max** | 1d10 |
-| **Imposition des Mains** | 5 | **Imposition des Mains Max** | 5 (PAL x 5) |
+| **Dés de vie actuels** | 2d10 | **Dés de vie max** | 2d10 |
+| **Imposition des Mains** | 10 | **Imposition des Mains Max** | 10 (PAL x 5) |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -|  
 | Level 1 | 2 | 2| 
-| Utilisation Gratuite Guiding Bolt | 1 | 1| 
+| Utilisation Gratuite **Divine Smite** | 1 | 1| 
+| Utilisation Gratuite **Guiding Bolt** | 1 | 1| 
 
 
 ## Ability scores
@@ -60,7 +61,7 @@
 | | |
 |-|-|
 |**Bonus d'initiative**|-1|
-|**Classe d'armure**|18 (+bouclier) / 16 (chainmail)|
+|**Classe d'armure**|19 (+bouclier) / 17 (chainmail) (*dont +1 Defense*)|
 |**Vitesse**|9 m|
 
 **Heavy Armor Master** - Tant que vous portez une armure, réduisez tous les dégâts physiques de 2 (= prof) (tranchants, contondants, perforants).
@@ -97,6 +98,7 @@
 |[Guiding Bolt](./SORTS/LEVEL1/GuidingBolt.md)|Rayon traçant|1||Lorehold|
 |[Divine Smite](./SORTS/LEVEL1/DivineSmite.md)|Châtiment Divin|1||Paladin|
 |[Bless](./SORTS/LEVEL1/Bless.md)|Bénédiction|1||Paladin|
+|[Shield of Faith](./SORTS/LEVEL1/ShieldOfFaith.md)|Bouclier de la Foi|1||Paladin|
 
 ### Autres
 
@@ -111,6 +113,10 @@ Votre toucher béni peut guérir les blessures. Vous possédez une réserve de p
 Au prix d'une **action bonus**, vous pouvez toucher une créature et puiser dans votre réserve pour soigner autant de points de vie que vous le désirez.
 
 Vous pouvez également dépenser 5 points de vie de votre réserve pour guérir la cible d'une **maladie** ou neutraliser un **poison** qui l'affecte. 
+
+### Fighting Style
+
+*Defense* - Vous avez +1 CA tant que vous portez une armure.
 
 ## Maîtrises
 
